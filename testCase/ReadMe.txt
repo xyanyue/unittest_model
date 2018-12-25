@@ -6,7 +6,7 @@
     'type': 0,  # 0接口测试 1：webUI测试 2：APP
     'safe': 0,  # 是否测试注入
     'get': {  # get & post
-        'url': 'https://m.120ask.com',
+        'url': 'https://xxxx',
         'params': {},
         'header': {},
         'cookie': {}
