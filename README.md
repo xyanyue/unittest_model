@@ -40,7 +40,7 @@ testCase1 = {
     'type': 1,  # 0接口测试 1：webUI测试 2：APP
     'safe': 0,  # 是否测试注入
     'get': {  # get & post
-        'url': 'https://sso.120ask.com/user/login',
+        'url': 'https://xxxx',
         'params': {},
         'header': {},
         'cookie': {}
